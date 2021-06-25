@@ -1,0 +1,3 @@
+*.swap
+*.swp
+__pycache__
