@@ -1,3 +1,7 @@
 
 multi-processing with Python
 ----
+
+os => fork
+multiprocessing => Process,Pool,Pipe,Queue,Value,Array,Manager,BaseManager
+concurrent=>ThreadPoolExecutor,ProcessPoolExecutor
